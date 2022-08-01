@@ -1,2 +1,2 @@
 # GDI
-Unity Game Development Idea
+Unity Game Development Idea.
